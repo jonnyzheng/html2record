@@ -14,7 +14,7 @@ In Gemfile add follow line:
 
 init parser file
 ```
-rails g parser Good
+rails g parser Taobao
 ```
 
 this command will generate a parser into folder app/parsers/

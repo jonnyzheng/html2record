@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Html2record::VERSION
   s.authors     = ["Jonny Zheng"]
   s.email       = ["mars131@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Html2record."
-  s.description = "TODO: Description of Html2record."
+  s.homepage    = "https://github.com/jonnyzheng/html2record"
+  s.summary     = "convert html into activerecord "
+  s.description = "convert html into activerecord "
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
